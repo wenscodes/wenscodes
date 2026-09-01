@@ -7,6 +7,8 @@
 ```
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> *wens.codes*
 
+- Turning mess into structure is what I do best.
+
 - Full-stack engineer, design-trained.
   - Build and maintain a company-wide internal platform on my own — interface through architecture — now used daily by about 30 people.
 
